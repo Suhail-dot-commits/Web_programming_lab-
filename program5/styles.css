@@ -1,0 +1,31 @@
+body{
+background-color: lightgreen;
+}
+h1{
+font-size:40px;
+font-family: Arial, Helvetica, sans-serif;
+color:red;
+text-align:center;
+}
+legend{
+font-size:20px;
+font-weight: 900;
+}
+fieldset{
+background-color: lightblue;
+}
+#name-label {
+  color: blue;
+  font-size: 18px;
+}
+
+#title {
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#fname {
+  border: 1px solid black;
+  padding: 8px;
+  border-radius: 5px;
+}
